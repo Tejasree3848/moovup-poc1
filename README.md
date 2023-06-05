@@ -7,6 +7,7 @@ In the project directory, you can run:
 # To create the node_modules
 npm install
 
+or
 yarn install
 
 
