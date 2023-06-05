@@ -18,3 +18,7 @@ or
 yarn start
 
 Please open the browser http://localhost:3000/
+
+The page will reload if you make edits and save.
+
+
